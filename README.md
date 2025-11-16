@@ -1,7 +1,7 @@
 # トランペット演奏姿勢評価AIの検証
 
 ## 概要
-骨格検知ライブラリ（[metrabs](https://github.com/isarandi/metrabs)）を用いて演奏時の姿勢を定量化し、分類するAIモデルの検証
+骨格検知ライブラリ（[metrabs](https://github.com/isarandi/metrabs)）を用いて演奏時の良い姿勢と悪い姿勢を定義し、多クラス（4クラス）分類するAIモデルの検証
 
 ## 技術スタック
 * **言語:** Python 3.9.18
