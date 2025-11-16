@@ -6,7 +6,7 @@
 ## 技術スタック
 * **言語:** Python 3.9.18
 * **ツール:** Jupyter Notebook
-* 使用したライブラリはrequirement.txtを参照
+※使用したライブラリはrequirement.txtを参照
 
 ## 実装内容
 1. **骨格検知:** MetRAbsを用いて身体のキーポイント（肩、肘、手首など）を抽出
