@@ -4,8 +4,8 @@
 骨格検知ライブラリを用いて演奏時の姿勢を定量化し、分類するAIモデルの検証
 
 ## 技術スタック
-* **Language:** Python 3.9.18
-* **Platform:** Google Colab / Jupyter Notebook
+* **言語:** Python 3.9.18
+* **ツール:** Jupyter Notebook
 * 使用したライブラリはrequirement.txtを参照
 
 ## 実装内容
